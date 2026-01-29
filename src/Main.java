@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.IOException;
-//vamos dormir e sonhar com perereca
+//vamos lula
 public class Main {
     public static void main(String[] args) throws IOException {
 
