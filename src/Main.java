@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.IOException;
-//se isso funcionar alexa desli
+//opaaaaaaaaaaaa
 public class Main {
     public static void main(String[] args) throws IOException {
 
