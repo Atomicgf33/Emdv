@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.IOException;
-//vamos dormir cadu lambe cu
+//se isso funcionar alexa desli
 public class Main {
     public static void main(String[] args) throws IOException {
 
