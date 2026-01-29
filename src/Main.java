@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.IOException;
-//vamos dormir cadu 2
+//vamos dormir cadu lambe cu
 public class Main {
     public static void main(String[] args) throws IOException {
 
